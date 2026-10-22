@@ -1,0 +1,24 @@
+{
+  "name": "appid-lister",
+  "version": "1.0.0",
+  "description": "Lists the Steam App IDs of installed games in the Decky plugin menu.",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@decky/rollup": "^1.0.1",
+    "@decky/api": "^1.1.2",
+    "@decky/ui": "^4.8.3",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "@types/webpack": "^5.28.5",
+    "rollup": "^4.18.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "react-icons": "^5.3.0"
+  }
+}

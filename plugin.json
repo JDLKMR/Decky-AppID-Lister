@@ -1,0 +1,11 @@
+{
+  "name": "AppID Lister",
+  "author": "JD",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility"],
+    "description": "Lists the Steam App IDs of installed games in the plugin menu.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-loader"
+  }
+}
