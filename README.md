@@ -1,6 +1,6 @@
 # Decky AppID Lister
 
-A Decky Loader plugin that A Decky Loader plugin that lists the Steam App IDs of all installed games.
+A Decky Loader plugin that lists the Steam App IDs of all installed games.
 
 ## Build
 ```
